@@ -42,5 +42,17 @@ Model eksekusi yang saya gunakan pada tugas ini saya menggunakaan compiler dari 
 sedangkan untuk php menggunakan server apache dari xampp
 
 ## Hasil Eksekusi
-Untuk hasil eksekusi sendiri dapat dilihat di folder ss pada respitory ini
+- Java  
+![alt text](https://github.com/Ahmad1321/LATIHAN2DPBO2022/blob/main/ss/java.png)  
+  
+- CPP  
+![alt text](https://github.com/Ahmad1321/LATIHAN2DPBO2022/blob/main/ss/cpp.png)  
+
+- PHP
+![alt text](https://github.com/Ahmad1321/LATIHAN2DPBO2022/blob/main/ss/php.png)  
+
+- Python  
+![alt text](https://github.com/Ahmad1321/LATIHAN2DPBO2022/blob/main/ss/py.png)  
+ 
+
 
